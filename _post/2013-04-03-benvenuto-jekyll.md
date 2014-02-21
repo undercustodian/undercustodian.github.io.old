@@ -1,8 +1,8 @@
 ---
+title: "Labs newsletter: 20 February, 2014"
+author: Neil A
+user: choi
 layout: post
-title: "Creare e mantenere un blog con Jekyll e Git"
-category: webdesign
-tags: [jekyll, git, cms, blog]
 ---
 
 Come scritto in un [post di qualche giorno fa](/2013/04/benvenuto-jekyll.html),
