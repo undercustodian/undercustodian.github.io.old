@@ -1,0 +1,5 @@
+name: Open Source
+markdown: redcarpet
+pygments: true
+baseurl: /
+exclude: ["vendor"]
